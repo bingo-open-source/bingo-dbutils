@@ -1,4 +1,4 @@
-bingo.dbutils
+bingo-dbutils
 =============
 
 commons db utils library
